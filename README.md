@@ -3,6 +3,7 @@
 ## Passionate Software Developer | React JS | .NET Core MVC | .NET Web APIs
 
 - 🔭 **PROFESSIONAL SUMMARY**
+  
    Results-driven software developer with nearly 1 year of hands-on experience in crafting dynamic web applications using cutting-edge technologies such as React JS, .NET Core MVC, and .NET Web APIs. Committed to delivering innovative solutions, I possess a strong foundation in software development principles, coupled with a keen ability to adapt and learn swiftly. Eager to take on new challenges, I am dedicated to contributing my skills and knowledge to advance projects and excel in the dynamic realm of web development.
 
 - 🔭 **CORE COMPETENCIES**
