@@ -1,4 +1,4 @@
-### Hello 👋, 
+### Hello 👋 
 ### I'm Jui Mistry
 ## Passionate Software Developer | React JS | .NET Core MVC | .NET Web APIs
 
